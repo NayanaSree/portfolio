@@ -1,0 +1,36 @@
+hr {
+	 border: 1px solid white;
+  background-color: white;
+}
+body {
+	background-color: #1c4966;
+	margin: 0%;
+	margin-left: 8%;
+	margin-right: 5%;
+}
+h1 {
+	font-family: verdana;
+	font-size: 30px;
+	color: white;
+    text-shadow: 8px 8px 8px #000000;
+}
+
+p {
+	font-size: 20px;
+	color: black;
+}
+
+#myIMG {
+  vertical-align: 50px;
+  animation:mymove 5s infinite;
+}
+
+.table2 {
+	font-size: 20px; 
+}
+
+.h11 {
+	margin: 0%
+	margin-left:5%;
+}
+
